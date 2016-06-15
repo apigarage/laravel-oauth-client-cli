@@ -1,0 +1,17 @@
+{
+    "name": "apigarage/oauthClientCLI",
+    "description": "A collection of functions for managing oauth clients from the command line",
+    "require": {
+        "illuminate/database": "^5.2",
+        "illuminate/console": "^5.2"
+    },
+    "require-dev": {
+        "laravel/laravel": "^5.2"
+    },
+    "authors": [
+        {
+            "name": "API Garage",
+            "email": "info@apigarage.com"
+        }
+    ]
+}

@@ -1,5 +1,5 @@
 {
-    "name": "apigarage/oauthClientCLI",
+    "name": "apigarage/oauth-client-cli",
     "description": "A collection of functions for managing oauth clients from the command line",
     "require": {
         "illuminate/database": "^5.2",
